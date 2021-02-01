@@ -1,0 +1,43 @@
+<?php
+
+class Cv{
+    public $nom;
+    public $prenom;
+    public $rue;
+    public $adresse;
+    public $complement;
+    public $ville;
+    public $codepostal;
+    public $phoneid;
+    public $phone;
+    public $mail;
+    public $statut;
+    public $role;
+    public $university;
+    public $degree;
+    public $universitydate;
+    public $universitytwo;
+    public $degreetwo;
+    public $universitydatetwo;
+    public $certificates;
+    public $certificatestwo;
+    public $certificatestree;
+    public $certificatesfour;
+    public $skills;
+    public $skillstwo;
+    public $skillstree;
+    public $skillsfour;
+    public $qualifications;
+    public $desqualifications;
+    public $qualificationstwo;
+    public $desqualificationstwo;
+    public $employer;
+    public $position;
+    public $description;
+    public $date;
+    public $previous_emp;
+    public $position_previous;
+    public $description_previous;
+    public $date_previous;
+    public $date_f_previous;
+}
